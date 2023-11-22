@@ -2,7 +2,6 @@ package com.freemusic.listenhistoryservice.controllers;
 
 import com.freemusic.listenhistoryservice.models.PlayHistory;
 import com.freemusic.listenhistoryservice.services.PlayHistoryService;
-import jakarta.ws.rs.NotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -8,4 +8,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:8089/play_history_service
+      uri: mongodb://localhost:27017/play_history_service
